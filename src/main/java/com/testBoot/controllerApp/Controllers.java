@@ -9,6 +9,7 @@ public class Controllers {
 	@PostMapping(path = "/saveCustInfo")
 	public String custInformation(@RequestBody String customer) {
 		return "Data save successfully for custmoer " + customer;
+	//hello my new code is here	
 	}
 
 }

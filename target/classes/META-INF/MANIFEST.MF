@@ -3,7 +3,7 @@ Implementation-Title: GBOBajajAllianzLife
 Implementation-Version: 0.0.1-SNAPSHOT
 Built-By: Swapnil.Rahate
 Implementation-Vendor-Id: com.bajajallianz.gbo
-Build-Jdk: 1.8.0_31
+Build-Jdk: 1.8.0_111
 Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
  ot-starter-parent/GBOBajajAllianzLife
 Created-By: Maven Integration for Eclipse

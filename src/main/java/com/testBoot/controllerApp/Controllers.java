@@ -8,6 +8,7 @@ import org.springframework.web.bind.annotation.RestController;
 public class Controllers {
 	@PostMapping(path = "/saveCustInfo")
 	public String custInformation(@RequestBody String customer) {
+		System.out.println("customer --- >"+customer);
 		return "Data save successfully for custmoer " + customer;
 	//hello my new code is here	
 	}
